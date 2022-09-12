@@ -1,0 +1,20 @@
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\bin\Debug\kółko i x.exe.config
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\bin\Debug\kółko i x.exe
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\bin\Debug\kółko i x.pdb
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko i x.csproj.AssemblyReference.cache
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko_i_x.Form1.resources
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko_i_x.Properties.Resources.resources
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko i x.csproj.GenerateResource.cache
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko i x.csproj.CoreCompileInputs.cache
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko i x.exe
+D:\Programowanko\just for fun\jeszcze nie wiem\kółko i x\obj\Debug\kółko i x.pdb
+C:\Programowanie\kółko i x\bin\Debug\kółko i x.exe.config
+C:\Programowanie\kółko i x\bin\Debug\kółko i x.exe
+C:\Programowanie\kółko i x\bin\Debug\kółko i x.pdb
+C:\Programowanie\kółko i x\obj\Debug\kółko i x.csproj.AssemblyReference.cache
+C:\Programowanie\kółko i x\obj\Debug\kółko_i_x.Form1.resources
+C:\Programowanie\kółko i x\obj\Debug\kółko_i_x.Properties.Resources.resources
+C:\Programowanie\kółko i x\obj\Debug\kółko i x.csproj.GenerateResource.cache
+C:\Programowanie\kółko i x\obj\Debug\kółko i x.csproj.CoreCompileInputs.cache
+C:\Programowanie\kółko i x\obj\Debug\kółko i x.exe
+C:\Programowanie\kółko i x\obj\Debug\kółko i x.pdb
